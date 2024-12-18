@@ -1,6 +1,6 @@
 # restaurant-website
 
-Internal CSS Website:
+Internal CSS Website(german):
 
 Project from Developer Academy. 
 Thanks for stopping by!
